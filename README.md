@@ -1,4 +1,4 @@
-# Application
+# Amaj-Application
 
 I Make a application with flutter 
 
