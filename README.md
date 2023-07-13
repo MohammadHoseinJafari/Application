@@ -1,8 +1,7 @@
 # Amaj-Application
 
 I Make a application with flutter 
-
- ____________________________________________________________________________________________
+The source of my project is located in the **master branch** ____________________________________________________________________________________________
  
  
 **my project have 5 step :**
